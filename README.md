@@ -47,4 +47,4 @@ Feel free to check [issues page](https://github.com/TrushilBudhia/Word-Guess-Gam
 ## License
 Copyright © 2021 [Trushil](https://github.com/TrushilBudhia)
 
-This project is [MIT](./LICENSE.md) licensed
+This project is [MIT](./LICENSE) licensed
